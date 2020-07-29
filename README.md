@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# flutterprovidersample
+# Flutter Provider Dependency Injection
 
-A new Flutter application.
+This is a flutter provider starter project
 
 ## Getting Started
 
@@ -16,5 +15,40 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-# flutter_provider_dependency_injection
->>>>>>> 6efcab2730a4dc9a51bf6caf9a5b227765100579
+
+## 💻 Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+* A brain to think 🤓🤓
+
+## ✨ Features
+- [x] Login.
+- [x] View Posts.
+- [x] View comments related to a post.
+
+
+## 📸 ScreenShots
+
+**Login**
+![alt text](screenshots/login.png)
+
+**Posts**
+![alt text](screenshots/posts.png)
+
+**Comments**
+![alt text](screenshots/comments.png)
+
+
+
+
+## 🔌 Plugins
+| Name | Usage |
+|------|-------|
+|[**Provider**](https://pub.dev/packages/provider)| State Management|
+
+## 🤓 Author
+**Emmanuel Iwearu** 
+
+
+
