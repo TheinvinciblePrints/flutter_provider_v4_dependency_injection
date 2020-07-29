@@ -30,14 +30,14 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 📸 ScreenShots
 
-**Login**
-![alt text](screenshots/login.png)
+## Login
+<img src="screenshots/login.png" width="300" height="400"/>
 
-**Posts**
-![alt text](screenshots/posts.png)
+## Posts
+<img src="screenshots/posts.png" width="300" height="400"/>
 
-**Comments**
-![alt text](screenshots/comments.png)
+## Comments
+<img src="screenshots/comments.png" width="300" height="400"/>
 
 
 
