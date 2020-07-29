@@ -31,13 +31,13 @@ samples, guidance on mobile development, and a full API reference.
 ## 📸 ScreenShots
 
 ## Login
-<img src="screenshots/login.png" width="300" height="400"/>
+<img src="screenshots/login.png" width="200" height="400"/>
 
 ## Posts
-<img src="screenshots/posts.png" width="300" height="400"/>
+<img src="screenshots/posts.png" width="200" height="400"/>
 
 ## Comments
-<img src="screenshots/comments.png" width="300" height="400"/>
+<img src="screenshots/comments.png" width="200" height="400"/>
 
 
 
